@@ -11,6 +11,13 @@ downloaded by running:
 ```sh
 python3 install/models.py spanish
 ```
+Installing requirements
+
+```sh
+ chmod +x install_requirements.sh
+ 
+ ./install_requirements.sh
+ ```
 
 Compilation of Kaldi, Phonetisaurus, and MFA:
 ```sh
